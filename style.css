@@ -1,0 +1,32 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+
+.back{
+    width: 350px;
+    margin: 2vh auto;
+    padding: 15px;
+    background-color: rgb(5, 4, 4);
+    text-align: center;
+    
+}
+h2{
+    color: white;
+    padding: 6px;
+}
+.back li{
+    margin-top: 10px;
+}
+.green{
+color: green;
+}
+.blu{
+    color: blue;
+}
+.rosa {
+    color: rgb(243, 87, 113);
+}
+.orange{
+    color: orange;
+}
+
